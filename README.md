@@ -2,7 +2,7 @@
 <html>
 <head>
 <html><head>
-</style></head><body marginwidth="0" marginheight="0"><div dir="ltr"><br><div class="gmail_quote"</a><br><br><br><u></u>
+</head><body marginwidth="0" marginheight="0"><div dir="ltr"><br><div class="gmail_quote"</a><br><br><br><u></u>
 <div marginwidth="0" marginheight="0" bgcolor="#fff" style="margin:0;padding:0">
 <table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" bgcolor="#fff" style="border-collapse:collapse"><tbody><tr><td>
  
